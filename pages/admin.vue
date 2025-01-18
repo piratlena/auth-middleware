@@ -8,7 +8,7 @@
 <script setup>
 
 definePageMeta({
-  middleware: ['auth', 'admin']
+  middleware: ['admin']
 })
   
 </script>
